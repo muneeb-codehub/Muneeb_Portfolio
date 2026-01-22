@@ -1,7 +1,4 @@
-# Muneeb Arif - Portfolio
-
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://muneeb-codehub.github.io/Muneeb_Portfolio/)
-[![GitHub](https://img.shields.io/badge/GitHub-muneeb--codehub-blue?style=for-the-badge&logo=github)](https://github.com/muneeb-codehub)
+# Muneeb Arif - Demo Portfolio
 
 ## 🚀 About
 
@@ -24,7 +21,7 @@ Modern, responsive portfolio website showcasing my projects and skills as a Full
 - **Font Awesome** - Icon library
 - **Google Fonts** - Poppins typography
 
-## 📂 Projects Featured
+## 📂 Projects Featured (Some shown in it)
 
 1. **E-commerce Database System**
    - C# Windows Forms application with 3-tier architecture
@@ -37,11 +34,6 @@ Modern, responsive portfolio website showcasing my projects and skills as a Full
    - Process Management, CPU Scheduling, Memory Management
    - Disk I/O, File Allocation Table, IPC
    - [View Repository](https://github.com/muneeb-codehub/Operating-Systems-Project)
-
-3. **Portfolio Website**
-   - This website itself!
-   - Modern design with professional animations
-   - [View Repository](https://github.com/muneeb-codehub/Muneeb_Portfolio)
 
 ## 🎨 Design Features
 
@@ -61,15 +53,10 @@ Modern, responsive portfolio website showcasing my projects and skills as a Full
 - **Experience** - Professional journey
 - **Contact** - Get in touch form and social links
 
-## 🌐 Live Demo
-
-Visit the live portfolio: [https://muneeb-codehub.github.io/Muneeb_Portfolio/](https://muneeb-codehub.github.io/Muneeb_Portfolio/)
-
 ## 📧 Contact
 
-- **Email:** muneebarif645@gmail.com
+- **Email:** muneebarif226@gmail.com
 - **GitHub:** [github.com/muneeb-codehub](https://github.com/muneeb-codehub)
-- **LinkedIn:** [linkedin.com/in/MuneebArif](https://linkedin.com/in/MuneebArif)
 
 ## 📄 License
 
